@@ -1,3 +1,41 @@
+<h1 align="center">
+UI Clone - Discord
+</h1>
+
+![DiscordGif](https://github.com/LuizEduS/DiscordUIClone/blob/master/Discord%20Project%20day%202.gif)
+
+<p align="center">Discord UI Clone (partial) for study purposes.</p>
+<p align="center">Deployed <a href="https://discorduiclone.netlify.app//">here</a>.</p>
+
+<p align="center">
+  <a href="https://github.com/LuizEduS/DiscordUIClone/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/rocketseat/youtube-clone-discord?color=%237159c1&logoColor=%237159c1&style=flat" alt="Contributors">
+  </a>
+</p>
+
+<hr>
+
+## Participants
+
+| [<img src="https://avatars0.githubusercontent.com/u/48323934?s=460&u=7edc2c3de868f1edbd0cc74c32b1138962870ac5&v=4" width="75px;"/>](https://github.com/LuizEduS) |
+| :------------------------------------------------------------------------------------------------------------------------: |
+
+
+| [Luiz Eduardo](https://github.com/LuizEduS)
+
+## Techs
+
+- [x] React.js
+- [x] Styled Components
+- [x] TypeScript
+
+## Usage
+
+1. Run `npm install` or `yarn install`.<br />
+2. Run `npm start` or `yarn start` and access `http://localhost:3000`.<br />
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
